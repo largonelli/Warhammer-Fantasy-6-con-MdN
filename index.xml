@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Warhammer 6º con MdN" indexUrl="https://raw.githubusercontent.com/largonelli/Warhammer-Fantasy-6-con-MdN/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Warhammer 6º con MdN" indexUrl="https://raw.githubusercontent.com/largonelli/Warhammer-Fantasy-6-con-MdN/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer_Fantasy_-_6ª_Edición_con_MDNR_-_v1.0.gstz" dataType="gamesystem" dataId="fd97-5cfe-d46c-03c6" dataName="Warhammer Fantasy - 6ª Edición con MDNR - v1.0" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="MDNR_Contingente_Aliado_Norses.catz" dataType="catalogue" dataId="4229-8631-a4bb-bf51" dataName="MDNR Contingente Aliado: Norses" dataBattleScribeVersion="2.03" dataRevision="1"/>
@@ -34,6 +34,7 @@
     <dataIndexEntry filePath="MDNR Condes Vampiro Clan Necrarca.catz" dataType="catalogue" dataId="6d7e-661c-56ea-93ad" dataName="MDNR Condes Vampiro: Clan Necrarca" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR_Reinos_Ogros_v5.catz" dataType="catalogue" dataId="21f4-2047-99f7-84c1" dataName="MDNR Reinos Ogros v5" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="MDNR Horda Snotling.catz" dataType="catalogue" dataId="59db-a42e-dfd4-1295" dataName="MDNR Horda Snotling" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR Reinos del Caos Mortales con Personajes Especiales v1.catz" dataType="catalogue" dataId="9946-245e-bb60-4d89" dataName="MDNR: Reinos del Caos: Mortales con Personajes Especiales v1" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR_Reinos_del_Caos_Demonios_v5.catz" dataType="catalogue" dataId="b0a7-8bc8-db26-e347" dataName="MDNR: Reinos del Caos: Demonios v5" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR Condes Vampiro Ejercito Nigromantico.catz" dataType="catalogue" dataId="03e3-5e48-124b-f146" dataName="MDNR Condes Vampiro: Ejército Nigromántico" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR_Enanos v4_5.catz" dataType="catalogue" dataId="b1c2-2288-abba-9142" dataName="MDNR Enanos" dataBattleScribeVersion="2.03" dataRevision="2"/>
