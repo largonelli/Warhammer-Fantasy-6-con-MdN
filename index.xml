@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Warhammer 6º con MdN" indexUrl="https://raw.githubusercontent.com/largonelli/Warhammer-Fantasy-6-con-MdN/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Warhammer 6º con MdN" indexUrl="https://raw.githubusercontent.com/largonelli/Warhammer-Fantasy-6-con-MdN/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer_Fantasy_-_6ª_Edición_con_MDNR_-_v1.0.gstz" dataType="gamesystem" dataId="fd97-5cfe-d46c-03c6" dataName="Warhammer Fantasy - 6ª Edición con MDNR - v1.0" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="MDNR_Contingente_Aliado_Norses.catz" dataType="catalogue" dataId="4229-8631-a4bb-bf51" dataName="MDNR Contingente Aliado: Norses" dataBattleScribeVersion="2.03" dataRevision="1"/>
