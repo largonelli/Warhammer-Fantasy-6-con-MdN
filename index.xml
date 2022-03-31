@@ -25,16 +25,15 @@
     <dataIndexEntry filePath="MDNR Mercenarios con Regimientos de Renombre v1.catz" dataType="catalogue" dataId="4a6c-edbc-f07a-1f54" dataName="MDNR Mercenarios con Regimientos de Renombre" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR Monstruos Arcanos v5.catz" dataType="catalogue" dataId="54c7-98b1-d115-0a65" dataName="MDNR Monstruos Arcanos v5" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR_Mercenarios v5.catz" dataType="catalogue" dataId="7ab5-64c7-4c6f-e0e1" dataName="MDNR Mercenarios" dataBattleScribeVersion="2.03" dataRevision="5"/>
-    <dataIndexEntry filePath="MDNR_Condes_Vampiro v5.catz" dataType="catalogue" dataId="af58-4303-e5f7-6815" dataName="MDNR Condes Vampiro" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="MDNR Condes Vampiro Clan Dragon Sangriento.catz" dataType="catalogue" dataId="adfb-13aa-8956-ba7f" dataName="MDNR Condes Vampiro: Clan Dragón Sangriento" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MdNR_Hombres_lagarto v4_5.catz" dataType="catalogue" dataId="c104-5906-70e9-def1" dataName="MdNR Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="MDNR Reinos del Caos Bestias con Personajes Especiales v1.catz" dataType="catalogue" dataId="f497-5661-9628-3320" dataName="MDNR: Reinos del Caos: Bestias con Personajes Especiales v1" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR_Contingente_Aliado_Amazonas.catz" dataType="catalogue" dataId="0e93-0c13-01b5-d74c" dataName="MDNR Contingente Aliado: Amazonas" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR_Elfos_Oscuros v4_5.catz" dataType="catalogue" dataId="88fd-bc7b-a990-f36e" dataName="MDNR Elfos Oscuros " dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="MDNR_Orcos_y_Goblins v4_5.catz" dataType="catalogue" dataId="f551-0992-682c-c960" dataName="MDNR Orcos y Goblins" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="MDNR_Bretonia_v5.catz" dataType="catalogue" dataId="cd8a-87a3-bb46-6004" dataName="MDNR Bretonia v5" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR Condes Vampiro Sylvania (Clan Von Carstein).catz" dataType="catalogue" dataId="d3a4-4d64-b493-0ae3" dataName="MDNR Condes Vampiro Sylvania (Clan Von Carstein)" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR_Regimientos_de_Renombre v5.catz" dataType="catalogue" dataId="8457-6ffc-3b3a-fbcc" dataName="MDNR Regimientos de Renombre v5" dataBattleScribeVersion="2.03" dataRevision="5"/>
-    <dataIndexEntry filePath="MDNR_Monstruos Arcanos_v5.catz" dataType="catalogue" dataId="21f4-2047-99f7-84c1" dataName="MDNR Monstruos Arcanos v5" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="MDNR Condes Vampiro con Personajes especiales v1.catz" dataType="catalogue" dataId="3bc1-1777-b290-0919" dataName="MDNR Condes Vampiro con Personajes Especiales" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="MDNR_Elfos_Silvanos v4_5.catz" dataType="catalogue" dataId="712f-e863-4d8b-f9aa" dataName="MDNR Elfos Silvanos" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR_Mercenarios_Arabia.catz" dataType="catalogue" dataId="acb0-9c11-5551-0f1f" dataName="MDNR Mercenarios: Arabia" dataBattleScribeVersion="2.03" dataRevision="1"/>
@@ -46,5 +45,6 @@
     <dataIndexEntry filePath="MDNR Regimientos de Renombre Estalianos v2.catz" dataType="catalogue" dataId="53ca-913f-a239-be19" dataName="MDNR Regimientos de Renombre Estalianos v2" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="MDNR_Enanos_del_Caos v4_5.catz" dataType="catalogue" dataId="cf2c-7980-f2d7-a99d" dataName="MDNR Enanos del Caos" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR Condes Vampiro Costa del Vampiro.catz" dataType="catalogue" dataId="25dd-1dd7-5683-3874" dataName="MDNR Condes Vampiro: Costa del Vampiro" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR Condes Vampiro v5.catz" dataType="catalogue" dataId="af58-4303-e5f7-6815" dataName="MDNR Condes Vampiro" dataBattleScribeVersion="2.03" dataRevision="5"/>
   </dataIndexEntries>
 </dataIndex>
