@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Warhammer Fantasy 6 Spanish" indexUrl="https://raw.githubusercontent.com/largonelli/Warhammer-Fantasy-6-con-MdN/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Warhammer Fantasy 6 con MdN" indexUrl="https://raw.githubusercontent.com/largonelli/Warhammer-Fantasy-6-con-MdN/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer_Fantasy_-_6ª_Edición_con_MDNR_-_v1.0.gstz" dataType="gamesystem" dataId="fd97-5cfe-d46c-03c6" dataName="Warhammer Fantasy - 6ª Edición con MDNR" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="MDNR_Elfos_Oscuros_Culto_de_Slaanesh_v2.catz" dataType="catalogue" dataId="8fff-08ae-4a18-baf5" dataName="MDNR Elfos Oscuros Culto de Slaanesh" dataBattleScribeVersion="2.03" dataRevision="2"/>
