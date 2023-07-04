@@ -6,7 +6,6 @@
     <dataIndexEntry filePath="MDNR_Contingente_Aliado_Amazonas.catz" dataType="catalogue" dataId="0e93-0c13-01b5-d74c" dataName="MDNR Contingente Aliado: Amazonas" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="MDNR_Reinos_del_Caos_Demonios_v5.catz" dataType="catalogue" dataId="b0a7-8bc8-db26-e347" dataName="MDNR: Reinos del Caos: Demonios" dataBattleScribeVersion="2.03" dataRevision="8"/>
     <dataIndexEntry filePath="MDNR_Contingente_Aliado_Kislev.catz" dataType="catalogue" dataId="d107-d8d6-28ba-91fb" dataName="MDNR Contingente Aliado: Kislev" dataBattleScribeVersion="2.03" dataRevision="2"/>
-    <dataIndexEntry filePath="MDNR_Elfos_Oscuros_v5.catz" dataType="catalogue" dataId="88fd-bc7b-a990-f36e" dataName="MDNR Elfos Oscuros " dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="MDNR_Reinos_del_Caos_Mortales_con_Personajes_Especiales_v1.catz" dataType="catalogue" dataId="2961-7cc9-d2ad-c95e" dataName="MDNR: Reinos del Caos: Mortales con Personajes Especiales" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="MDNR_Altos_Elfos_Patrulla_Marina_v1.catz" dataType="catalogue" dataId="b549-aafb-1a53-214f" dataName="MDNR Altos Elfos Patrulla Marina" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="MDNR_Imperio_Ejercito_Cruzado_v1.catz" dataType="catalogue" dataId="0441-e812-bd21-ffdf" dataName="MDNR Imperio Ejército Cruzado" dataBattleScribeVersion="2.03" dataRevision="5"/>
@@ -86,6 +85,7 @@
     <dataIndexEntry filePath="MDNR_Orcos_y_Goblins v4_5.catz" dataType="catalogue" dataId="f551-0992-682c-c960" dataName="MDNR Orcos y Goblins" dataBattleScribeVersion="2.03" dataRevision="9"/>
     <dataIndexEntry filePath="MDNR_Elfos_Oscuros_Patrulla_de_Vigilancia_v1.catz" dataType="catalogue" dataId="0b1b-3787-529c-8cc1" dataName="MDNR Elfos Oscuros Patrulla de Vigilancia" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="MDNR_Imperio_con_Personajes_Especiales_v1.catz" dataType="catalogue" dataId="4a05-09ec-0e07-2a20" dataName="MDNR Imperio con Personajes Especiales" dataBattleScribeVersion="2.03" dataRevision="7"/>
+    <dataIndexEntry filePath="MDNR_Elfos_Oscuros_v6.catz" dataType="catalogue" dataId="88fd-bc7b-a990-f36e" dataName="MDNR Elfos Oscuros " dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="MDNR_Elfos_Oscuros_Incursores_de_Naggaroth_v1.catz" dataType="catalogue" dataId="5595-f28c-fe40-056f" dataName="MDNR Elfos Oscuros Incursores de Naggaroth" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="MDNR_Skaven v4_5.catz" dataType="catalogue" dataId="a841-7b20-89a8-91ac" dataName="MDNR Skaven" dataBattleScribeVersion="2.03" dataRevision="8"/>
     <dataIndexEntry filePath="MDNR_Condes_Vampiro_Clan_Necrarca_v2.catz" dataType="catalogue" dataId="6d7e-661c-56ea-93ad" dataName="MDNR Condes Vampiro: Clan Necrarca" dataBattleScribeVersion="2.03" dataRevision="5"/>
