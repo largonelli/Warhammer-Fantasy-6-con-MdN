@@ -22,7 +22,7 @@
     <dataIndexEntry filePath="MdNR_Hombres_lagarto v4_5.catz" dataType="catalogue" dataId="c104-5906-70e9-def1" dataName="MdNR Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="MDNR_Orcos_y_Goblins_Machotez_de_Grimgor_v1.catz" dataType="catalogue" dataId="f444-ead4-6427-4ae4" dataName="MDNR Orcos y Goblins Machotez de Grimgor" dataBattleScribeVersion="2.03" dataRevision="8"/>
     <dataIndexEntry filePath="MDNR_Orcos_y_Goblins_Lista_de_Goblins_v1.catz" dataType="catalogue" dataId="8c11-e85d-82e4-6660" dataName="MDNR Orcos y Goblins Lista de Goblins" dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="MDNR_Condes_Vampiro_v5.catz" dataType="catalogue" dataId="af58-4303-e5f7-6815" dataName="MDNR Condes Vampiro" dataBattleScribeVersion="2.03" dataRevision="8"/>
+    <dataIndexEntry filePath="MDNR_Condes_Vampiro_v5.catz" dataType="catalogue" dataId="af58-4303-e5f7-6815" dataName="MDNR Condes Vampiro" dataBattleScribeVersion="2.03" dataRevision="9"/>
     <dataIndexEntry filePath="MDNR_Mercenarios v5.catz" dataType="catalogue" dataId="7ab5-64c7-4c6f-e0e1" dataName="MDNR Mercenarios" dataBattleScribeVersion="2.03" dataRevision="10"/>
     <dataIndexEntry filePath="MDNR_Mercenarios_con_Regimientos_de_Renombre_v1.catz" dataType="catalogue" dataId="4a6c-edbc-f07a-1f54" dataName="MDNR Mercenarios con Regimientos de Renombre" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="MDNR_Enanos_del_Caos v4_5.catz" dataType="catalogue" dataId="cf2c-7980-f2d7-a99d" dataName="MDNR Enanos del Caos" dataBattleScribeVersion="2.03" dataRevision="8"/>
@@ -57,7 +57,7 @@
     <dataIndexEntry filePath="MdM_Marienburgo_(El_Templo_de_Myrmidia).catz" dataType="catalogue" dataId="e507-f807-9071-fe41" dataName="MdM Marienburgo" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="MDNR_Enanos_con_Personajes_Especiales_v1.catz" dataType="catalogue" dataId="879d-d11f-7880-396e" dataName="MDNR Enanos con Personajes Especiales" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="MDNR_Elfos_Silvanos v5.catz" dataType="catalogue" dataId="712f-e863-4d8b-f9aa" dataName="MDNR Elfos Silvanos" dataBattleScribeVersion="2.03" dataRevision="7"/>
-    <dataIndexEntry filePath="MDNR_Condes_Vampiro_con_Personajes_especiales_v2.catz" dataType="catalogue" dataId="4908-1cd6-f3e4-0423" dataName="MDNR Condes Vampiro con Personajes Especiales" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="MDNR_Condes_Vampiro_con_Personajes_especiales_v2.catz" dataType="catalogue" dataId="4908-1cd6-f3e4-0423" dataName="MDNR Condes Vampiro con Personajes Especiales" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="MDNR_Reinos_del_Caos_Mortales_v5.catz" dataType="catalogue" dataId="7020-46e5-3849-599f" dataName="MDNR: Reinos del Caos: Mortales v5" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="MDNR_Imperio_Ejercito_Sigmarita_v1.catz" dataType="catalogue" dataId="6a68-bab5-54d4-80cc" dataName="MDNR Imperio Ejército Sigmarita" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="MDNR_Contingente_Aliado_Pigmeos.catz" dataType="catalogue" dataId="2f7b-2f81-2054-a790" dataName="MDNR Contingente Aliado: Pigmeos" dataBattleScribeVersion="2.03" dataRevision="1"/>
